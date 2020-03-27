@@ -1,5 +1,5 @@
 # ABM_Migration_SpringSim2020
-An Agent-based model to explore impacts of policy decisions on migration.
+An Agent-based model to explore the impacts of policy decisions on migration.
 
 <h2>Overview</h2>
 This model was developed to explore the impacts of U.S. border-policy scenarios and to represent the decision-making and communication processes of migrants as they head to the U.S. southern border via Mexico. The model and associated paper will be presented at and published in the proceedings for the <a href="https://scs.org/springsim/"> SpringSim 2020 conference</a>, scheduled for 19 May 2020. See the reference to the paper at the bottom of this page.
