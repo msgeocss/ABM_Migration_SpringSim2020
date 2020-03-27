@@ -14,7 +14,7 @@ Migration to the United States (U.S.) has been an ongoing topic in the political
 The full reference below will be updated when the paper is published in the conference proceedings.
 Al-Khulaidy, Amira and Swartz, Melanie (2020). Along the Border: An Agent-based Model of Migration Along the United States-Mexico Border.
 
-##An Example Simulation Run
+<h2>An Example Simulation Run</h2>
 Click on the image to see a sample model run:
-<img src="https://github.com/msgeocss/ABM_Migration_SpringSim2020/ABM_migration_springsim2020_model_run.gif">
+<img src="https://github.com/msgeocss/ABM_Migration_SpringSim2020/ABM_migration_springsim2020_model_run.gif" alt="animated gif of the model run">
 
