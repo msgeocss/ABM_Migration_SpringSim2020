@@ -12,4 +12,5 @@ Migration to the United States (U.S.) has been an ongoing topic in the political
 
 <h2>Reference to Paper</h2>
 Al-Khulaidy and M. Swartz, "Along the Border: an Agent-Based Model of Migration Along the United States-Mexico Border," 2020 Spring Simulation Conference (SpringSim), 2020, pp. 1-12, doi: 10.22360/SpringSim.2020.HSAA.012.
+https://ieeexplore.ieee.org/document/9185465
 
